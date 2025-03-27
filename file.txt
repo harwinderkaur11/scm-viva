@@ -1,3 +1,7 @@
 hii...
 My name is Harwinde Kaur
+<<<<<<< HEAD
 I am doing my graduation from chitkara university
+=======
+my roll number is 2410991340
+>>>>>>> my-branch
