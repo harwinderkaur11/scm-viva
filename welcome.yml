@@ -3,7 +3,7 @@ name: Welcome New Contributors
 on: 
   pull_request:
     types: [opened]
-
+    
 jobs:
   greet:
     runs-on: ubuntu-latest
